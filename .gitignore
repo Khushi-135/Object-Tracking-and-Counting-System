@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+
+# Ignore videos and outputs
+test_videos/
+output/
+
+*.mp4
+*.avi
+*.pt
+
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
